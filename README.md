@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Rudra Bhaskar 👋
 
-<!--
-**rudra-dev29/rudra-dev29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer with 3+ years of experience building scalable web applications using React and Angular.
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
+- React
+- Angular
+- TypeScript
+- JavaScript
+- Node.js
+- MongoDB
+- AWS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+### HenryHomes Dashboard
+Multi-app dashboard with role-based access using React, TypeScript, and Supabase.
+
+### AI Data Dashboard
+Data visualization platform using React and AWS.
+
+## 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/rudra-bhaskar-gubbala-a53571158/
+- Email: rudrabhaskar3@gmail.com
