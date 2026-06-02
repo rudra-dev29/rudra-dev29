@@ -1,59 +1,72 @@
-<!-- Hero Section -->
-# Hi, I'm Rudra Bhaskar 👋  
-Frontend Developer | 3+ Years Experience  
+# Hi 👋, I'm Rudra Bhaskar
 
-I build scalable, responsive web applications with React, Angular, and TypeScript. Open to freelance projects and full-time opportunities.
+Frontend Developer with 3+ years of experience building scalable and responsive web applications using React, Angular, and TypeScript.
 
----
+### 🚀 Tech Stack
 
-## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" alt="React" />  
-<img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" alt="Angular" />  
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />  
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" />  
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" alt="AWS" />  
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white" alt="Firebase" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 ---
 
 ## 🌟 Featured Projects
 
-### ✨ Mah'aura Events  
-A premium event management platform with an admin dashboard, powered by React and Firebase.  
-🔗 [Live Demo](https://mahauraevents.web.app/)  
-Highlights: Dynamic image gallery, secure admin panel, AI enhancements with Google GenAI API.
+### 🌐 Rudra Bhaskar Portfolio
+Professional portfolio showcasing frontend development expertise.
 
-### 🏠 EMI & SIP Financial Planner  
-A high-fidelity home loan EMI and SIP calculator with scenario comparison and financial planning tools.  
-🔗 [Live Demo](https://home-loan-calculator-dusky.vercel.app/)  
-Key Features: Real-time loan analysis, amortization breakdown, PDF report generation.
+**Tech:** React, TypeScript, Styled Components, Firebase
 
-### 🏥 HenryHomes Dashboard  
-A multi-app dashboard with role-based access, built with React and Supabase.  
-Key Features: Shared authentication, real-time data sync, scalable architecture.
+🔗 https://rudra-bhaskar-portfolio.web.app/
 
-### 📊 AI Data Dashboard  
-A data visualization platform for querying and presenting large datasets using React and AWS.  
-Key Features: Interactive charts, AWS cloud integration, intuitive UI.
+### ✨ Mah'aura Events
+Premium event management platform with gallery management and admin dashboard.
 
----
+**Tech:** React, TypeScript, Firebase, Cloudinary, Google GenAI
 
-## 📈 Professional Experience
+🔗 https://mahauraevents.web.app/
 
-- **Freelance & Contract Frontend Developer** (Apr 2024 – Dec 2025)  
-- **Innostes Solutions Pvt Ltd** (Mar 2022 – Mar 2024)  
-- **Alight Pro Pvt Ltd** (Web Designer, Apr 2021 – Oct 2021)  
-- **Shivam Medisoft Pvt Ltd** (Technical Support, Apr 2018 – Nov 2019)
+### 🏠 EMI & SIP Financial Planner
+Advanced Home Loan EMI Calculator and SIP Analysis Platform.
+
+**Tech:** Next.js, React, TypeScript, Tailwind CSS
+
+🔗 https://home-loan-calculator-dusky.vercel.app/
+
+### 🏥 HenryHomes Dashboard
+Enterprise dashboard with role-based access control and Supabase integration.
+
+**Tech:** React, TypeScript, Supabase, Material UI
+
+### 📊 AI Data Dashboard
+Data visualization platform for querying and analyzing large datasets.
+
+**Tech:** React, TypeScript, AWS
 
 ---
 
 ## 📫 Connect With Me
 
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/rudra-bhaskar-gubbala-a53571158/)  
-- Portfolio: [https://rudra-bhaskar-portfolio.web.app/](https://rudra-bhaskar-portfolio.web.app/)  
+- LinkedIn: https://www.linkedin.com/in/rudra-bhaskar-gubbala-a53571158/
+- Portfolio: https://rudra-bhaskar-portfolio.web.app/
 - Email: rudrabhaskar3@gmail.com
-
----
-
-⭐ Always open to collaborating on innovative projects and exploring new opportunities!
